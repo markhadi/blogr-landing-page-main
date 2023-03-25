@@ -11,12 +11,12 @@ Users should be able to:
 
 # Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/markhadi/blogr-landing-page-main)
+- Live Site URL: [Add live site URL here](https://markhadi.github.io/blogr-landing-page-main/)
 
 # Built with
 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://tailwindcss.com/) - For styles
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
