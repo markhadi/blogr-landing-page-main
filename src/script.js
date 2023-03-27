@@ -2,7 +2,7 @@ const iconHamburger = document.querySelector("#icon-hamburger");
 const iconClose = document.querySelector("#icon-close");
 
 const menu = document.querySelector("#menu");
-const linkMenu = document.querySelectorAll("#link-menu");
+const linkMenu = document.querySelectorAll(".link-menu");
 
 const iconClicked = (showIcon, hideIcon) => {
   showIcon.classList.remove("hide-icon");
