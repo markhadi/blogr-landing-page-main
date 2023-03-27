@@ -11,8 +11,8 @@ Users should be able to:
 
 # Links
 
-- Solution URL: [Add solution URL here](https://github.com/markhadi/blogr-landing-page-main)
-- Live Site URL: [Add live site URL here](https://markhadi.github.io/blogr-landing-page-main/)
+- Solution URL: https://github.com/markhadi/blogr-landing-page-main
+- Live Site URL: https://markhadi.github.io/blogr-landing-page-main/
 
 # Built with
 
